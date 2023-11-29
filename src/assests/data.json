@@ -56,9 +56,54 @@
       "img": "../assests/Avocado Hass.jpg",
       "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
       "brand": "Hormel Black Labelmany",
-      "price": 60.67,
-      "quantity": 0,
-      "total": 0,
+      "price": 70.67,
+      "quantity": 5,
+      "total": 353.35,
+      "status": ""
+    },
+    {
+      "img": "../assests/Avocado Hass.jpg",
+      "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
+      "brand": "Hormel Black Labelmany",
+      "price": 65.67,
+      "quantity": 18,
+      "total": 1182.06,
+      "status": ""
+    },
+    {
+      "img": "../assests/Avocado Hass.jpg",
+      "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
+      "brand": "Hormel Black Labelmany",
+      "price": 50.99,
+      "quantity": 56,
+      "total": 2455.44,
+      "status": ""
+    },
+    {
+      "img": "../assests/Avocado Hass.jpg",
+      "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
+      "brand": "Hormel Black Labelmany",
+      "price": 9.88,
+      "quantity": 10,
+      "total": 98.8,
+      "status": ""
+    },
+    {
+      "img": "../assests/Avocado Hass.jpg",
+      "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
+      "brand": "Hormel Black Labelmany",
+      "price": 19.67,
+      "quantity": 78,
+      "total": 1534.26,
+      "status": ""
+    },
+    {
+      "img": "../assests/Avocado Hass.jpg",
+      "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
+      "brand": "Hormel Black Labelmany",
+      "price": 6.67,
+      "quantity": 86,
+      "total": 573.62,
       "status": ""
     },
     {
@@ -66,71 +111,26 @@
       "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
       "brand": "Hormel Black Labelmany",
       "price": 60.67,
-      "quantity": 0,
-      "total": 0,
+      "quantity": 13,
+      "total": 788.71,
       "status": ""
     },
     {
       "img": "../assests/Avocado Hass.jpg",
       "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
       "brand": "Hormel Black Labelmany",
-      "price": 60.67,
-      "quantity": 0,
-      "total": 0,
+      "price": 54.67,
+      "quantity": 8,
+      "total": 437.36,
       "status": ""
     },
     {
       "img": "../assests/Avocado Hass.jpg",
       "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
       "brand": "Hormel Black Labelmany",
-      "price": 60.67,
-      "quantity": 0,
-      "total": 0,
-      "status": ""
-    },
-    {
-      "img": "../assests/Avocado Hass.jpg",
-      "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
-      "brand": "Hormel Black Labelmany",
-      "price": 60.67,
-      "quantity": 0,
-      "total": 0,
-      "status": ""
-    },
-    {
-      "img": "../assests/Avocado Hass.jpg",
-      "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
-      "brand": "Hormel Black Labelmany",
-      "price": 60.67,
-      "quantity": 0,
-      "total": 0,
-      "status": ""
-    },
-    {
-      "img": "../assests/Avocado Hass.jpg",
-      "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
-      "brand": "Hormel Black Labelmany",
-      "price": 60.67,
-      "quantity": 0,
-      "total": 0,
-      "status": ""
-    },
-    {
-      "img": "../assests/Avocado Hass.jpg",
-      "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
-      "brand": "Hormel Black Labelmany",
-      "price": 60.67,
-      "quantity": 0,
-      "total": 0,
-      "status": ""
-    },
-    {
-      "img": "../assests/Avocado Hass.jpg",
-      "productname": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, invivid",
-      "brand": "Hormel Black Labelmany",
-      "price": 60.67,
-      "quantity": 0,
-      "total": 0,
+      "price": 45.67,
+      "quantity": 1,
+      "total": 45.67,
       "status": ""
     }
   ]
