@@ -39,7 +39,7 @@ const EditModal: React.FC<Props> = ({ item, index }) => {
 
   useEffect(() => {
     setDetails({ price: price, quantity: quantity });
-  }, [price, quantity]);
+  }, [item]);
 
   return (
     <div
